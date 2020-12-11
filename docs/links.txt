@@ -1,0 +1,13 @@
+//beauitifull terminal
+
+1)https://levelup.gitconnected.com/building-a-terminal-dashboard-in-golang-in-300-lines-of-code-3b9f83f363a8
+//sql with golang
+
+2)https://dev.to/johanlejdung/a-mini-guide-build-a-rest-api-as-a-go-microservice-together-with-mysql-27m2
+//mongodb with go 
+
+3)https://dev.to/johanlejdung/a-mini-guide-build-a-rest-api-as-a-go-microservice-together-with-mysql-27m2
+//text search 
+
+4)https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
+//

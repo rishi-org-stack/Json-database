@@ -1,0 +1,15 @@
+{
+ "age": 18,
+ "id": 1,
+ "name": "Rishi",
+ "password": "rishijha",
+ "projs": [
+  {
+   "completed": "oko",
+   "lastdate": "18/02/21",
+   "name": "stats",
+   "pid": 1,
+   "startdate": "01/01/21"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>hello</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--styling-->
+        <style>
+            body {
+                background-color:white;
+                text-align: center;
+            }
+
+            #f1{
+                width: 25%;
+                height: 25%;
+                padding: 12px 20px solid black;
+                border-radius: 25px ;
+                background-color:rgb(168, 44, 168);
+                display: inline-block;
+                margin-left:auto;
+                margin-right: auto;
+                text-align: center;
+            }
+
+            input[type=text]{
+                
+                /* border-top: 30px solid rgb(168, 44, 168); */
+                border-radius: 25px;
+                border-top-left-radius: 25px;
+                width: 80%;
+                padding: 12px ;
+                /* margin: 30px ; */
+                box-sizing: border-box;
+                margin-top: 30px;
+                text-align: center;
+            }
+
+            input[type=int]{
+                border-radius: 25px;
+                border-top-left-radius: 25px;
+                width: 80%;
+                padding: 12px ;
+                /* margin: 30px ; */
+                box-sizing: border-box;
+                margin-top: 30px;
+                text-align: center;    
+                
+            }
+        </style>
+    </head>
+    <body>
+        <form action="/check" method="GET" id="f1">
+            <input type="text" name="name" placeholder="Name">
+            <input type="text" name="id" placeholder="ID">
+            <input type="text" name ="password" placeholder ="Password">
+            <input type="submit"/>
+        </form>
+    </body>
+</html>

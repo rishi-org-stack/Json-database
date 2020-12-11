@@ -1,0 +1,22 @@
+i)& =done
+ii)-- = ongoing
+iiI)--> = immediate
+
+1)creating user struct(&)
+2)genrating new user (&)
+3)adding a user from its name if itsnot present(&)
+4)searching for a  particular use with id(&)
+5)adding proj to given user(&)
+also,changing complleted field  of particular proj with id(&)
+6)allocation of id to user and it s proj
+7)retriving and adding date in correct format(&)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+8)handling http req and mappping function to string
+9)pinnenig user when date is close(&)
+10)requirse authentication and password generator and matchre
+11)parsing date is also nedded(&)
+12)changing filed of user proj from(&) map[string]interface to map[string]
+13)needto work on templating(&)
+14)add proj html to go cintact is left (&)
+-->drop dunction doesnt delets ine proj but delets all(-->)
+15)get detils html is left(--)
+16)chaning status of given proj html is left(--)
